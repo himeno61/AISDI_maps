@@ -1,0 +1,21 @@
+Start testing: May 25 23:43 CEST
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/luke/Dokumenty/Code/AISDI/aisdilol/Mapy/Release/tests/aisdiMapsTests"
+Directory: /home/luke/Dokumenty/Code/AISDI/aisdilol/Mapy/Release/tests
+"boostUnitTestsRun" start time: May 25 23:43 CEST
+Output:
+----------------------------------------------------------
+Running 196 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: May 25 23:43 CEST
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 23:43 CEST
